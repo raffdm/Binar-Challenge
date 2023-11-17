@@ -1,0 +1,13 @@
+========================
+Struk BinarFud
+========================
+Nasi Goreng	5	Rp. 75000
+Es Jeruk		4	Rp. 20000
+------------------------+
+Total		9	Rp 95000
+
+Pembayaran : BinarCash
+========================
+Simpan struk ini sebagai
+bukti pembayaran
+========================
