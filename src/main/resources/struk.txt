@@ -1,0 +1,8 @@
+			Struk Pembayaran	
+
+No		Pesanan			Harga	  Jumlah
+1	 | Es Kopi Susu	 | 15000.0	 | 2
+2	 | Cappuccino	 | 20000.0	 | 1
+
+Totalnya yaitu: 50000.0
+Terima kasih sudah datang ke Stars Coffee!
